@@ -75,7 +75,7 @@ $(document).ready(function () {
     $("main").hide().fadeIn(800);
 });
 ----------------------------------------------
-Hosting (GitHub Pages)
+###Hosting (GitHub Pages)
 
 Steps followed:
 
