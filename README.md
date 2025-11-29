@@ -73,12 +73,15 @@ A simple fade-in animation added:
 ```js
 $(document).ready(function () {
     $("main").hide().fadeIn(800);
-});
+});```
 This shows usage of JavaScript + jQuery as required by assignment.
 
 ✔ Responsive & Clean Layout
 
 Basic responsiveness included using width constraints and simple CSS.
+---
+.
+
 🚀 Hosting (GitHub Pages)
 
 Steps followed:
