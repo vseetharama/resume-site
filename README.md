@@ -74,8 +74,12 @@ A simple fade-in animation added:
 $(document).ready(function () {
     $("main").hide().fadeIn(800);
 });
-----------------------------------------------
-###Hosting (GitHub Pages)
+This shows usage of JavaScript + jQuery as required by assignment.
+
+✔ Responsive & Clean Layout
+
+Basic responsiveness included using width constraints and simple CSS.
+🚀 Hosting (GitHub Pages)
 
 Steps followed:
 
@@ -86,7 +90,9 @@ Uploaded HTML, CSS, JS, and image files
 Enabled GitHub Pages
 
 Selected:
+
 Source: main branch
 Folder: /(root)
-save.
-GitHub generated a live website link: https://vseetharama.github.io/resume-site/
+
+
+GitHub generated a live website link
